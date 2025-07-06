@@ -13,9 +13,3 @@ This is a simple web application built with **Vanilla JavaScript** that allows u
 - JavaScript (ES6+)
 - HTML5
 - CSS3
-
-## 📦 Run Locally
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/song-lyrics-search.git
